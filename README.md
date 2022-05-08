@@ -2,6 +2,6 @@
 
 
 
-- 🌱 I’m currently learning JavaScript, HTML5, CSS3
+- 🌱 I’m currently learning JavaScript
 
-- 👀 I’m interested in Node.JS, TypeScript
+- 👀 I’m interested in Node.JS, ReactJS, TypeScript
